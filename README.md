@@ -39,5 +39,4 @@ Dự án này được tạo ra để quản lý thông tin tài khoản của n
 
 ## Liên kết:
 
-* Tài liệu: https://github.com/phuoctm1910/TaMinhPhuoc_QLTaiKhoan/wiki
 * Hướng dẫn sử dụng: https://github.com/phuoctm1910/TaMinhPhuoc_QLTaiKhoan/README.md
